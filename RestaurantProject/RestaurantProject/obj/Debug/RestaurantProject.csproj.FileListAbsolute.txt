@@ -1,0 +1,50 @@
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csprojResolveAssemblyReference.cache
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Form1.resources
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csproj.GenerateResource.Cache
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order1.resources
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order2.resources
+C:\Users\Elpiniki Yianni\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order3.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csprojResolveAssemblyReference.cache
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Form1.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order1.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order10.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order4.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order5.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order6.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order7.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order8.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order9.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order2.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order3.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+C:\Users\iChri_000\Desktop\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe.config
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.exe
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\bin\Debug\RestaurantProject.pdb
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Form1.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order1.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order10.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order4.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order5.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order6.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order7.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order8.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order9.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order2.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Order3.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.Properties.Resources.resources
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.exe
+C:\Users\user\Desktop\Github\Final\RestaurantProject\RestaurantProject\obj\Debug\RestaurantProject.pdb
